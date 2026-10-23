@@ -4,7 +4,7 @@
 
 RTL design, verification and VLSI implementation: from pipelined CPUs and AXI-Stream DSP blocks to custom Sky130 layout and static timing analysis. Every project below has a self-checking testbench and measured results. **Click any project name to open it.**
 
-GATE EC 2025: **AIR 763** · M.Tech thesis: DSSS radio transceiver on **Zynq UltraScale+ (ZCU102)** · TA, IIT Madras EE (DSP, Applied Python)
+M.Tech thesis: DSSS radio transceiver on **Zynq UltraScale+ (ZCU102)** · TA, IIT Madras EE (DSP, Applied Python)
 
 ---
 
