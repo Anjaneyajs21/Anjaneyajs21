@@ -4,7 +4,7 @@
 
 RTL design, verification and VLSI implementation: from pipelined CPUs and AXI-Stream DSP blocks to custom Sky130 layout and static timing analysis. Every project below has a self-checking testbench and measured results. **Click any project name to open it.**
 
-M.Tech thesis: DSSS radio transceiver on **Zynq UltraScale+ (ZCU102)** · TA, IIT Madras EE (DSP, Applied Python)
+M.Tech thesis: DSSS radio transceiver on **Zynq UltraScale+ (ZCU102)**
 
 ---
 
@@ -14,7 +14,6 @@ M.Tech thesis: DSSS radio transceiver on **Zynq UltraScale+ (ZCU102)** · TA, II
 |---|---|
 | **[5-stage pipelined RV32I CPU →](https://github.com/Anjaneyajs21/rv32i-5stage-pipeline)** | SystemVerilog · full forwarding, load-use stall, branch flush · retire-trace **differential testing vs. a Python ISS** on 100+ random programs · CPI and branch analysis from performance counters |
 | **[Direct-mapped cache controller →](https://github.com/Anjaneyajs21/direct_mapped_cache_controller)** | Verilog cache controller (tag/valid, hit/miss handling, memory interface) |
-| **[Network-on-Chip router →](https://github.com/Anjaneyajs21/NoC_Router)** | SystemVerilog NoC router for on-chip interconnect |
 
 ### ASIC design & verification
 
