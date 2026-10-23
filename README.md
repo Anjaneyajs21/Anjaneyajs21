@@ -1,6 +1,6 @@
 ## Anjaneya J S
 
-**M.Tech, Communication & Signal Processing · IIT Madras · Class of 2027**
+**M.Tech, Communication & Signal Processing, Electrical Engineering · IIT Madras · Class of 2027**
 
 RTL design, verification and VLSI implementation: from pipelined CPUs and AXI-Stream DSP blocks to custom Sky130 layout and static timing analysis. Every project below has a self-checking testbench and measured results. **Click any project name to open it.**
 
